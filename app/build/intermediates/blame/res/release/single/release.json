@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/menu_main.xml.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/raw_alarm.mp3.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/raw/alarm.mp3"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/drawable-mdpi_ring.jpg.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/drawable-mdpi/ring.jpg"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/drawable-ldpi_found_button.png.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/drawable-ldpi/found_button.png"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/drawable-hdpi_ring.jpg.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/drawable-hdpi/ring.jpg"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/drawable-ldpi_set_button.png.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/drawable-ldpi/set_button.png"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/drawable-mdpi_background.jpg.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/drawable-mdpi/background.jpg"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/drawable-hdpi_background.jpg.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/drawable-hdpi/background.jpg"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/drawable-hdpi_set_button.png.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/drawable-hdpi/set_button.png"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/layout_about.xml.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/drawable-mdpi_found_button.png.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/drawable-mdpi/found_button.png"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/drawable-hdpi_found_button.png.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/drawable-hdpi/found_button.png"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/drawable-ldpi_ring.jpg.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/drawable-ldpi/ring.jpg"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/layout_menu.xml.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/drawable-ldpi_background.jpg.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/drawable-ldpi/background.jpg"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/drawable-mdpi_set_button.png.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/drawable-mdpi/set_button.png"
+    },
+    {
+        "merged": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/res/merged/release/layout_receiver_layout.xml.flat",
+        "source": "/Users/snehithraj/AndroidStudioProjects/Yohoo/app/src/main/res/layout/receiver_layout.xml"
+    }
+]

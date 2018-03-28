@@ -1,0 +1,4 @@
+#Sun Mar 25 23:27:37 CDT 2018
+base.0=/Users/snehithraj/AndroidStudioProjects/Yohoo/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
